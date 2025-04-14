@@ -5,17 +5,16 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "next": "13.5.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "ethers": "^6.7.0",
-    "viem": "^1.4.0",
-    "@web3modal/ethereum": "^2.6.2",
-    "@web3modal/react": "^2.6.2"
+    "viem": "^2.5.0",
+    "@web3modal/ethereum": "^2.7.1",
+    "@web3modal/react": "^2.7.1"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.1",
